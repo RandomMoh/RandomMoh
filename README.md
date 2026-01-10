@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# RandomMoh
+## A little bit about me
 
 ### Self-Taught Developer | Student
 
