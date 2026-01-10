@@ -43,19 +43,3 @@ Currently building competency in the following languages and technologies:
 
 <br/>
 
-## GitHub Activity
-
-These charts give a snapshot of my recent coding momentum and language usage.
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RandomMoh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=33CCFF" alt="RandomMoh's Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomMoh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff" alt="Top Languages" height="180px"/>
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <i>"The only way to learn a new programming language is by writing programs in it."</i>
-</div>
