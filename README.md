@@ -51,5 +51,5 @@ I engineer high-end developer tools and premium web templates. I focus on raw fr
 
 - **[Premium Next.js Developer Portfolio](https://mohh.gumroad.com/l/cksrl)** 
   *A high-end, brutalist developer portfolio boilerplate built with Next.js, GSAP, and Three.js.*
-- **[Tactical Telemetry HTML Portfolio](https://mohh.gumroad.com/)** 
+- **[Tactical Telemetry HTML Portfolio](https://mohh.gumroad.com/l/bento-portfolio)** 
   *Zero-dependency, pure HTML/GSAP minimalist portfolio template.*
