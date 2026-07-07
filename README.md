@@ -3,12 +3,12 @@
 # Mohh
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=EAEAEA&center=false&vCenter=true&width=600&lines=Engineering+premium+web+experiences.;Building+brutalist+architectures.;Shipping+developer+tools." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=EAEAEA&center=false&vCenter=true&width=650&lines=Engineering+premium+web+experiences.;Building+brutalist+architectures.;Crafting+native+mobile+applications.;Shipping+developer+tools." alt="Typing SVG" />
 </a>
 
 <br/>
 
-I engineer high-end developer tools and premium web templates. I focus on raw frontend performance, cinematic motion, and minimalist architectures. 
+I engineer high-end developer tools, premium web templates, and native cross-platform mobile experiences. I focus on raw performance, cinematic motion, and minimalist architectures. 
 
 **[🔗 View Live Portfolio](https://portfolio-randommohs-projects.vercel.app/)** &nbsp;&nbsp;|&nbsp;&nbsp; **[🛒 Gumroad Templates](https://mohh.gumroad.com/)**
 
@@ -29,17 +29,19 @@ I engineer high-end developer tools and premium web templates. I focus on raw fr
   
   <br/>
 
-  <!-- Systems & Backend -->
+  <!-- Mobile & Systems -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   
   <br/>
 
-  <!-- Infrastructure -->
+  <!-- Languages & Infrastructure -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -49,6 +51,8 @@ I engineer high-end developer tools and premium web templates. I focus on raw fr
 
 ### ✦ Active Deployments
 
+- **[FlowState: Minimalist Productivity App](https://github.com/RandomMoh/FlowState-app)** 
+  *A brutalist, high-performance Pomodoro timer and task manager built natively with Flutter & Riverpod.*
 - **[Premium Next.js Developer Portfolio](https://mohh.gumroad.com/l/cksrl)** 
   *A high-end, brutalist developer portfolio boilerplate built with Next.js, GSAP, and Three.js.*
 - **[Tactical Telemetry HTML Portfolio](https://mohh.gumroad.com/l/bento-portfolio)** 
