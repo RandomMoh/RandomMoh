@@ -3,7 +3,7 @@
 # Mohh
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=EAEAEA&center=false&vCenter=true&width=650&lines=Engineering+premium+web+experiences.;Building+brutalist+architectures.;Crafting+native+mobile+applications.;Shipping+developer+tools." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=EAEAEA&center=false&vCenter=true&width=650&lines=Engineering+premium+web+experiences.;Building+brutalist+architectures.;Crafting+native+mobile+applications.;Developing+Flutter+games+with+Flame.;Shipping+developer+tools." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,10 +29,11 @@ I engineer high-end developer tools, premium web templates, and native cross-pla
   
   <br/>
 
-  <!-- Mobile & Systems -->
+  <!-- Mobile, Games & Systems -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flame_Engine-FF5252?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   
@@ -51,6 +52,8 @@ I engineer high-end developer tools, premium web templates, and native cross-pla
 
 ### ✦ Active Deployments
 
+- **[Echoes: Procedural Platformer](https://github.com/RandomMoh/echoes)**
+  *An endless, procedurally generated 2D platformer built natively with Flutter and the Flame Engine, featuring custom parallax physics and dynamic difficulty.*
 - **[FlowState: Minimalist Productivity App](https://github.com/RandomMoh/FlowState-app)** 
   *A brutalist, high-performance Pomodoro timer and task manager built natively with Flutter & Riverpod.*
 - **[Premium Next.js Developer Portfolio](https://mohh.gumroad.com/l/cksrl)** 
