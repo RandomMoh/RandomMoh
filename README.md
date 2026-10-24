@@ -1,62 +1,18 @@
-<div align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
+  <img alt="Mohh — Web and mobile developer" src="./assets/profile-light.svg" width="820">
+</picture>
 
-# Mohh
+I build web and mobile apps, with a focus on performance and straightforward interfaces. I also spend time with Linux, systems programming, and small game projects.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=EAEAEA&center=false&vCenter=true&width=650&lines=Engineering+premium+web+experiences.;Building+brutalist+architectures.;Crafting+native+mobile+applications.;Developing+Flutter+games+with+Flame.;Shipping+developer+tools." alt="Typing SVG" />
-</a>
+[Portfolio](https://portfolio-randommohs-projects.vercel.app/) · [Templates](https://mohh.gumroad.com/)
 
-<br/>
+### Selected projects
 
-I engineer high-end developer tools, premium web templates, and native cross-platform mobile experiences. I focus on raw performance, cinematic motion, and minimalist architectures. 
+- **[FlowState](https://github.com/RandomMoh/FlowState-app)** — A Flutter productivity app with a focus timer, tasks, and session analytics.
+- **[Echoes](https://github.com/RandomMoh/echoes)** — A procedural platformer built with Flutter and Flame.
 
-**[🔗 View Live Portfolio](https://portfolio-randommohs-projects.vercel.app/)** &nbsp;&nbsp;|&nbsp;&nbsp; **[🛒 Gumroad Templates](https://mohh.gumroad.com/)**
+### Tools I work with
 
-<br/>
-
-### ✦ Technical Arsenal
-
-</div>
-
-<div align="left">
-  <!-- Core Web -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  
-  <br/>
-
-  <!-- Mobile, Games & Systems -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flame_Engine-FF5252?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  
-  <br/>
-
-  <!-- Languages & Infrastructure -->
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</div>
-
-<br/>
-
-### ✦ Active Deployments
-
-- **[Echoes: Procedural Platformer](https://github.com/RandomMoh/echoes)**
-  *An endless, procedurally generated 2D platformer built natively with Flutter and the Flame Engine, featuring custom parallax physics and dynamic difficulty.*
-- **[FlowState: Minimalist Productivity App](https://github.com/RandomMoh/FlowState-app)** 
-  *A brutalist, high-performance Pomodoro timer and task manager built natively with Flutter & Riverpod.*
-- **[Premium Next.js Developer Portfolio](https://mohh.gumroad.com/l/cksrl)** 
-  *A high-end, brutalist developer portfolio boilerplate built with Next.js, GSAP, and Three.js.*
-- **[Tactical Telemetry HTML Portfolio](https://mohh.gumroad.com/l/bento-portfolio)** 
-  *Zero-dependency, pure HTML/GSAP minimalist portfolio template.*
+React · Next.js · TypeScript · React Native · Flutter · Node.js · Python · Linux

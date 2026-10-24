@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="120" viewBox="0 0 820 120" role="img" aria-labelledby="title desc">
+  <title id="title">Mohh — Web and mobile developer</title>
+  <desc id="desc">A minimal profile header with a softly animated blue underline.</desc>
+  <style>
+    .accent { animation: breathe 7s ease-in-out infinite; }
+    @keyframes breathe { 0%, 100% { opacity: .45; transform: translateX(0); } 50% { opacity: 1; transform: translateX(18px); } }
+    @media (prefers-reduced-motion: reduce) { .accent { animation: none; opacity: .75; } }
+  </style>
+  <text x="0" y="51" fill="#18212f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="-1.7">Mohh</text>
+  <text x="1" y="82" fill="#647084" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16">Web and mobile developer</text>
+  <path d="M0 109H820" fill="none" stroke="#e3e8ef" />
+  <path class="accent" d="M1 109H69" fill="none" stroke="#7185ee" stroke-width="3" stroke-linecap="round" />
+</svg>
