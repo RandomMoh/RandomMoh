@@ -6,7 +6,7 @@
 
 I build web and mobile apps, with a focus on performance and straightforward interfaces. I also spend time with Linux, systems programming, and small game projects.
 
-[Portfolio](https://portfolio-randommohs-projects.vercel.app/) · [Templates](https://mohh.gumroad.com/)
+[Portfolio](https://portfolio-randommohs-projects.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mohsin-jamil-70a9a2408/) · [Templates](https://mohh.gumroad.com/)
 
 ### Selected projects
 
